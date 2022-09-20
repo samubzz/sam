@@ -1,0 +1,119 @@
+body{
+	background-color: #e6e6e6;
+}
+*{
+	margin: 0;
+	padding: 0;
+	font-family: serif monospace;
+}
+#conteudo{
+		background: #ffae00;
+		width: auto;
+		height: 120px;
+		text-align: center;
+		padding-top: 10px ;
+
+		}
+a{
+	text-decoration: none;
+}			
+a:link, a:visited{
+	color: #FFF;
+}
+a:hover{
+	padding: 4px 6px;
+	 color: orange;
+	background-color: white;
+	
+	
+}
+
+
+
+#tt{
+	background: white;
+	width: 600px;
+	height: 900px;
+	position: relative;
+	left: 200px;
+}
+#tt6{
+	background: white;
+	width: 600px;
+	height: 900px;
+	position: relative;
+	left: 200px;
+	bottom: 300px;
+	padding-top: 10px;
+	padding-left: 5px;
+
+}
+
+.ccc{
+	width: 500px;
+	height: 700px;
+	position: relative;
+	left: 50px;
+
+}
+.cccc{
+	width: 500px;
+	height: 810px;
+	position: relative;
+	left: 50px;
+}	
+#caixa{
+	background: white;
+		width: 220px;
+		height: 95px;
+		
+		position: relative;
+		bottom: 900px;
+		left: 830px;
+}
+
+#caixa2{
+	background: white;
+		width: 220px;
+		height: 95px;
+		
+		position: relative;
+		bottom: 898px;
+		left: 830px;
+
+}
+
+#caixa3{
+	background: white;
+		width: 220px;
+		height: 135px;
+		
+		position: relative;
+		bottom: 878px;
+		left: 830px;
+}
+#caixa4{
+	background: #d4d4d4;
+	width: 830px;
+	height: 45px;
+	position: relative;
+	left: 200px;
+	bottom: 285px;
+	text-align: center;
+
+}
+
+h3{
+	background-color: #dcdcdc;
+	padding-top: 5px;
+	padding-left: 4px;
+}
+
+p{
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+
+
+
